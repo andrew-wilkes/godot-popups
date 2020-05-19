@@ -1,2 +1,2 @@
-# godot-popups
+# Godot Popups
 Popup Control demo project
